@@ -7,13 +7,17 @@ A modern, interactive counter application built with vanilla JavaScript, featuri
 The project is organized in the following directory structure:
 
 counterapp/
+│
 ├── assets/
 │   ├── css/
-│   │   └── style.css
+│   │   └── style.css        # Application styles
+│   │
 │   └── js/
-│       └── javascript.js
-├── index.html
-└── README.md
+│       └── javascript.js    # Application logic
+│
+├── index.html              # Main HTML file
+│
+└── README.md              # Documentation
 
 ## Features
 
