@@ -6,6 +6,7 @@ A modern, interactive counter application built with vanilla JavaScript, featuri
 
 The project is organized in the following directory structure:
 
+```
 counterapp/
 │
 ├── assets/
@@ -18,6 +19,9 @@ counterapp/
 ├── index.html              # Main HTML file
 │
 └── README.md              # Documentation
+
+```
+
 
 ## Features
 
@@ -140,11 +144,4 @@ We welcome:
 
 ## License
 
-Copyright © 2024 Antonio Perrotta. All rights reserved.
-
-## Support
-
-For assistance:
-- Open an issue
-- Contact the maintainer
-- Check documentation
+Copyright © 2025 Antonio Perrotta. All rights reserved.
